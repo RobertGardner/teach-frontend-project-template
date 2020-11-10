@@ -12,6 +12,7 @@
     "standard"
   ],
   "rules": {
+    "no-var": "off",
     "semi": [
       "error",
       "always"
