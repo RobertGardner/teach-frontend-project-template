@@ -10,9 +10,9 @@ title: "Feature: User can "
 
 <!-- write your feature below this line, i.e. "User can..." -->
 
-## 📐 Plan
+## 📐 Functionality
 
-> ##### Summary of the technical approach to be taken.
+> ##### A description of how the application will work from the perspective of the user.
 
 <!-- write your plan below this line -->
 
