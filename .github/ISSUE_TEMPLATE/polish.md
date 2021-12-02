@@ -8,9 +8,9 @@ title: "Polish"
 
 > ##### Commit checklist for tasks needed.
 
-- [ ] Verify the consistency of your site's theme.
+- [ ] Verify the consistency of the site's theme.
     - The `<title>` should fall in line with the site's overall purpose. `ajax-project` is not specific enough.
-    - Replace the default [favicon](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#adding_custom_icons_to_your_site) included in the project's `index.html` file with an image that is thematically related to your app.
+    - Replace the default [favicon](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#adding_custom_icons_to_your_site) included in the project's `index.html` file with an image that is thematically related to the app.
     - The site's brand (logo and/or text) should be visible and consistently placed on every page. Clicking the site's brand should navigate the user back to the home page.
     - A main heading (`<h1>`) should be visible near the top of every page. It should indicate which page the user is currently on. It should be consistently placed on every page (excluding the landing page, which may have it somewhere more prominent).
     - Site navigation links should be visible and consistently placed on every page of the site.
