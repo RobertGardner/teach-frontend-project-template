@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "devDependencies": {
-    "@learningfuze/lfz-config": "^1.0.0",
+    "@learningfuze/lfz-config": "^1.0.5",
     "@typescript-eslint/eslint-plugin": "^6.11.0",
     "@typescript-eslint/parser": "^6.17.0",
     "eslint": "^8.22.0",
@@ -21,11 +21,11 @@
     "eslint-plugin-promise": "^6.0.0",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
-    "markuplint": "^2.10.1",
+    "markuplint": "^3.7.0",
     "prettier": "^3.1.0",
-    "stylelint": "^14.10.0",
-    "stylelint-config-recommended": "^9.0.0",
-    "stylelint-config-standard": "^27.0.0",
+    "stylelint": "^15.4.0",
+    "stylelint-config-recommended": "^11.0.0",
+    "stylelint-config-standard": "^32.0.0",
     "typescript": "^5.3.3"
   },
   "license": "ISC"
